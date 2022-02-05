@@ -2,6 +2,9 @@
 
 Code for a workshop originally developed for an Unconference session during the [Outlier Conference](https://outlierconf.com/) hosted by Data Visualization Society.
 
+To jump right in:
+Fork this repository, or download the Jupyter Notebook file Styling_Plotly_Themes_Templates.ipynb.
+
 Ever have that feeling that a lot of data viz you see screams the tool it was made in? Using the [Plotly Open Source](https://github.com/plotly/plotly.py) Python graphing library, we will take a look under the hood of:
 
 - the style themes available, 
