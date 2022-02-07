@@ -2,10 +2,10 @@
 
 Code for a workshop originally developed for an Unconference session during the [Outlier Conference](https://outlierconf.com/) hosted by Data Visualization Society.
 
-To jump right in:
+## To jump right in:
 Fork this repository, or download the Jupyter Notebook file Styling_Plotly_Themes_Templates.ipynb.
 
-Ever have that feeling that a lot of data viz you see screams the tool it was made in? Using the [Plotly Open Source](https://github.com/plotly/plotly.py) Python graphing library, we will take a look under the hood of:
+Ever have that feeling that a lot of data viz you see screams the tool it was made in? Using the [Plotly Open Source Python Graphing Library](https://github.com/plotly/plotly.py), we will take a look under the hood of:
 
 - the style themes available, 
 - understand the visual elements like figure and chart backgrounds, and 
@@ -13,8 +13,10 @@ Ever have that feeling that a lot of data viz you see screams the tool it was ma
 
 This informal workshop is for a seasoned Pythonista wanting to add to your design toolbox or a newbie curious about custom interfaces beyond the usual BI tools (listen or follow along).
 
+_You can also check out all of Plotly's open source graphing libraries, including R, JavaScript, and more [here](https://plotly.com/graphing-libraries/)._
+
 ## Quick Start Prep 
-###(most of this occurs before the workshop to follow along live...)
+#### (most of this occurs before the workshop to follow along live...)
 We're not going to spend too much time here, but if you're just starting out in Python, and want to get your hands _dirty_, here's a few building blocks useful to get the most from the workshop:
 
 1. __Python__ ...All you _really_ need is a Python code interpreter installed as a foundation.
