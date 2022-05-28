@@ -1,6 +1,7 @@
 # Customizing Visual Styles in Plotly
 
 Code for a workshop originally developed for an Unconference session during the [Outlier Conference](https://outlierconf.com/) hosted by Data Visualization Society. You can watch the recorded video of this Unconference session where I walked through this code notebook on YouTube.
+
 [!['Outlier 2022 Unconf: Customizing Visual Styles in Plotly'](https://i.ytimg.com/vi/zUeQaeWWExw/0.jpg)](https://youtu.be/zUeQaeWWExw?t=1130)
 
 ## To jump right in:
